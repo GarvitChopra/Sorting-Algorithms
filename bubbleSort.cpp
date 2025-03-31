@@ -18,7 +18,7 @@ void bubbleSort(int arr[], int n)
         }
         if (didswap == 0)
         {
-            break; // No swaps means the array is already sorted
+            break; // No swaps means the array is already sorted.
         }
     }
 
